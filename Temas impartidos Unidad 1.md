@@ -9,36 +9,36 @@ title: Temas Impartidos
 Ingeniería del Software, es el término utilizado por Fritz Bauer en la primera conferencia sobre desarrollo de software patrocinada por el Comité de Ciencia de la OTAN celebrada en Garmisch (Alemania), en octubre de 1968, previamente había sido utilizado por el holandés Edsger Dijkstra en su obra The Humble Programmer.
 
 ### Evolucion del Software
--El término “evolución” del software se utiliza desde los sesenta para denominar la dinámica de crecimiento del software
+* El término “evolución” del software se utiliza desde los sesenta para denominar la dinámica de crecimiento del software
 
--Una definición atribuida a Lehman y Ramil dice que la evolución del software es “todas las actividades de programación que se orientan a generar una nueva versión de un software a partir de una versión anterior operativa.
+* Una definición atribuida a Lehman y Ramil dice que la evolución del software es “todas las actividades de programación que se orientan a generar una nueva versión de un software a partir de una versión anterior operativa.
 
 ### Crisis del Software
--La palabra crisis se define en el diccionario como “un punto decisivo en el curso de algo; momento, etapa, o evento decisivo o crucial”. Sin embargo para el software no ha habido ningún punto crucial, sólo una lenta evolución
+* La palabra crisis se define en el diccionario como “un punto decisivo en el curso de algo; momento, etapa, o evento decisivo o crucial”. Sin embargo para el software no ha habido ningún punto crucial, sólo una lenta evolución
 
--La crisis en la industria del software permanece durante muchos años, lo cual parece una contradicción para el término. Lo que si se podría decir es que hay un problema crónico en el desarrollo de software.
+* La crisis en la industria del software permanece durante muchos años, lo cual parece una contradicción para el término. Lo que si se podría decir es que hay un problema crónico en el desarrollo de software.
 
 ### ¿Por qué se crea la Ingenieria en Software?
 La ingeniería de software se crea debido a las siguientes características
 
--El producto debe ser confiable y realizar sólo las tareas especificadas en los requerimientos
+* El producto debe ser confiable y realizar sólo las tareas especificadas en los requerimientos
 
--El producto debe ser robusto. Esto quiere decir que el software se comporta de manera razonable, incluso en circunstancias no anticipadas desde el principio
+* El producto debe ser robusto. Esto quiere decir que el software se comporta de manera razonable, incluso en circunstancias no anticipadas desde el principio
 
--El producto de software debe ser lo más reutilizable posible, de manera tal que pueda ser incorporado en otro producto de software si se requiere
+* El producto de software debe ser lo más reutilizable posible, de manera tal que pueda ser incorporado en otro producto de software si se requiere
 
--El producto de software debe ser eficiente en el uso de los recursos del sistema.
+* El producto de software debe ser eficiente en el uso de los recursos del sistema.
 
 ### El Software en la actualidad
 Las direcciones en las que evoluciona la ingeniería del software hoy en día pueden agruparse de la siguiente manera
 
--Metodologías
+* Metodologías
 
--Experimentacion
+* Experimentacion
 
--Desarrollo dirigido por Modelos
+* Desarrollo dirigido por Modelos
 
--Líneas de productos
+* Líneas de productos
 
 ###  Proceso de Ingenieria de Informacion
 Factores de calidad del Software
@@ -58,55 +58,55 @@ Según la definición del IEEE, “software es la suma total de los programas 
 
 ### El software puede dividirse en dos grandes categorías
 
--Software de aplicaciones
+* Software de aplicaciones
 
--Software de sistemas
+* Software de sistemas
 
 Objetivo de la IS
--Diseñar programas informáticos que se adecúen a las exigencias de la sociedad
+* Diseñar programas informáticos que se adecúen a las exigencias de la sociedad
 
--Liderar y acoplar el desarrollo de programaciones complicadas
+* Liderar y acoplar el desarrollo de programaciones complicadas
 
--Actuar en todas las fases del ciclo de vida de un producto.
+* Actuar en todas las fases del ciclo de vida de un producto.
 
--Computar los costos de un proyecto y evaluar los tiempos de desarrollo
+* Computar los costos de un proyecto y evaluar los tiempos de desarrollo
 
--Realizar el seguimiento de costes y plazos
+* Realizar el seguimiento de costes y plazos
 
--Liderar equipos de trabajo de desarrollo software
+* Liderar equipos de trabajo de desarrollo software
 
 ### Codigo de Etica
 La versión resumida del código sintetiza las aspiraciones a un nivel elevado de abstracción. Las cláusulas que se incluyen en la versión completa proporcionan ejemplos y detalles acerca de cómo estas aspiraciones modifican nuestra manera de actuar como profesionales de la ingeniería del software. Sin esas aspiraciones los detalles pueden convertirse en tediosos y legalistas; sin los detalles las aspiraciones pueden convertirse en altisonantes pero vacías; conjuntamente las aspiraciones y los detalles conforman un código cohesivo.
 
 ### Principios del Codigo
--Publico
+* Publico
 
--Cliente y Empleador
+* Cliente y Empleador
 
--Producto
+* Producto
 
--juicio
+* juicio
 
--Gerencia
+* Gerencia
 
--Profesion
+* Profesion
 
--Colegas
+* Colegas
 
--Interés Propio
+* Interés Propio
 
 ### Sistemas de Información
 Un sistema de información es un conjunto de elementos interrelacionados con el propósito de prestar atención a las demandas de información de una organización, para elevar el nivel de conocimientos que permitan un mejor apoyo a la toma de decisiones y desarrollo de acciones (Peña, 2006)
 
 Un sistema de información realiza cuatro actividades básicas
 
--Entrada de informacion.
+* Entrada de informacion.
 
--Almacenamiento de Informacion.
+* Almacenamiento de Informacion.
 
--Procesamiento de informacion.
+* Procesamiento de informacion.
 
--Salida de información
+* Salida de información
 
 ### Tipos de sistemas de Información
 Los sistemas de información, de manera general se pueden clasificar de tres formas según sus propósitos generales, en este sentido Peralta (2008) clasifica los sistemas de información en tres tipos Fundamentales.
@@ -118,10 +118,10 @@ Los sistemas de información, de manera general se pueden clasificar de tres for
 3.-Sistemas estratégicos
 
 ### Elementos de un sistema de informacion
--Financieros
+* Financieros
 
--Administrativos
+* Administrativos
 
--Humanos
+* Humanos
 
--Materiales
+* Materiales
